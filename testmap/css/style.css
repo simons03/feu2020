@@ -1,3 +1,7 @@
 .border {
     text-align: center;
 }
+
+.navbar-light {
+    background-color: thistle !important;
+}
